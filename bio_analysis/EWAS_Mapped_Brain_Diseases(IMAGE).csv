@@ -1,0 +1,25 @@
+﻿cpg_id,R2_Single,R2_Multi_Tissue,R2_Gain,Association_ID,probe_ID,trait,case_description,case_beta,control_description,control_beta,correlation,p_value,rank_in_study,effect_size,study_ID,PMID
+cg00121533,0.09026915,0.76989514,0.679626,1910943,cg00121533,brain health,plasma proteins,-0.40253,,,neg,7.34E-22,2696,,2259,35945220
+cg21906852,0.10720831,0.7686261,0.6614178,1910588,cg21906852,brain health,plasma proteins,-0.512668,,,neg,2.98E-17,2341,,2259,35945220
+cg26690034,0.1003111,0.935038,0.83472687,1910511,cg26690034,brain health,plasma proteins,-0.394895,,,neg,1.13E-16,2264,,2259,35945220
+cg23130651,0.121914566,0.8094863,0.68757176,1807597,cg23130651,Alzheimer's disease (AD),cognitive impairment (MCI),-0.115664,cognitively healthy controls (CHCs),0.756623,neg,1.50E-16,7770,0.872288,2211,37388929
+cg03340356,0.08295417,0.74848634,0.6655322,1800678,cg03340356,Alzheimer's disease (AD),cognitive impairment (MCI),-0.225556,cognitively healthy controls (CHCs),0.202684,neg,2.31E-15,851,0.42824,2211,37388929
+cg03340356,0.08295417,0.74848634,0.6655322,1819981,cg03340356,mild cognitive impairment,cognitive impairment (MCI),-0.241223,Alzheimers disease (AD),0.202684,neg,7.43E-15,590,0.443907,2210,37388929
+cg26276964,0.10769898,0.77664655,0.6689476,1807558,cg26276964,Alzheimer's disease (AD),cognitive impairment (MCI),-0.115878,cognitively healthy controls (CHCs),0.350821,neg,6.53E-14,7731,0.466698,2211,37388929
+cg17862837,0.07228726,0.7848644,0.71257716,1909729,cg17862837,brain health,plasma proteins,-1.33435,,,neg,3.91E-13,1482,,2259,35945220
+cg17862837,0.07228726,0.7848644,0.71257716,1909524,cg17862837,brain health,plasma proteins,-1.31458,,,neg,1.24E-12,1277,,2259,35945220
+cg12258161,0.1434046,0.87191087,0.72850627,1808640,cg12258161,Alzheimer's disease (AD),cognitive impairment (MCI),-0.110756,cognitively healthy controls (CHCs),0.0431962,neg,6.04E-12,8813,0.153952,2211,37388929
+cg09272074,0.12934023,0.8098271,0.68048686,1908972,cg09272074,brain health,plasma proteins,-0.936415,,,neg,2.80E-11,725,,2259,35945220
+cg14868128,0.16843432,0.8564291,0.6879948,1806475,cg14868128,Alzheimer's disease (AD),cognitive impairment (MCI),-0.122362,cognitively healthy controls (CHCs),0.774715,neg,8.58E-11,6648,0.897077,2211,37388929
+cg09089355,0.22294152,0.93544006,0.71249855,1818950,cg09089355,Alzheimer's disease (AD),cognitive impairment (MCI),0.280581,cognitively healthy controls (CHCs),0.995441,pos,1.54E-10,19123,0.71486,2211,37388929
+cg09089355,0.22294152,0.93544006,0.71249855,1788198,cg09089355,Alzheimer's disease (AD),Alzheimer's disease (AD),-0.269148,cognitively healthy controls (CHCs),0.984008,neg,6.12E-10,295,0.71486,2209,37388929
+cg19806221,0.12923259,0.90472835,0.77549577,1801034,cg19806221,Alzheimer's disease (AD),cognitive impairment (MCI),-0.203811,cognitively healthy controls (CHCs),0.429444,neg,1.04E-09,1207,0.633255,2211,37388929
+cg27007937,0.03133315,0.75810635,0.7267732,1823532,cg27007937,mild cognitive impairment,cognitive impairment (MCI),-0.166777,Alzheimers disease (AD),0.505506,neg,6.82E-09,4141,0.672283,2210,37388929
+cg12606694,0.12910563,0.9830038,0.85389817,1119138,cg12606694,Alzheimer's disease (AD),late-onset AD patients,,neurotypical controls,,pos,8.94E-09,26,0.168927,1129,30712078
+cg20186636,0.22782344,0.9530875,0.7252641,1788379,cg20186636,Alzheimer's disease (AD),Alzheimer's disease (AD),-0.230097,cognitively healthy controls (CHCs),0.262188,neg,1.88E-08,476,0.0320908,2209,37388929
+cg12258161,0.1434046,0.87191087,0.72850627,1824123,cg12258161,mild cognitive impairment,cognitive impairment (MCI),-0.100979,Alzheimers disease (AD),0.0431962,neg,1.88E-08,4732,0.144175,2210,37388929
+cg18104674,0.113356054,0.8111235,0.69776744,1180076,cg18104674,Parkinson's disease (PD),Parkinson's disease (PD) progression in PD cases NOT receiving L-dopa/entacapone,,,,pos,5.58E-08,15,,1286,30871403
+cg12574596,0.14023113,0.8990925,0.75886136,1825304,cg12574596,mild cognitive impairment,cognitive impairment (MCI),-0.110258,Alzheimers disease (AD),0.60237,neg,1.29E-07,5913,0.712628,2210,37388929
+cg19806221,0.12923259,0.90472835,0.77549577,1826287,cg19806221,mild cognitive impairment,cognitive impairment (MCI),-0.158672,Alzheimers disease (AD),0.429444,neg,5.57E-07,6896,0.588116,2210,37388929
+cg20186636,0.22782344,0.9530875,0.7252641,1814311,cg20186636,Alzheimer's disease (AD),cognitive impairment (MCI),0.119114,cognitively healthy controls (CHCs),0.151205,pos,1.18E-06,14484,0.0320908,2211,37388929
+cg27007937,0.03133315,0.75810635,0.7267732,1809237,cg27007937,Alzheimer's disease (AD),cognitive impairment (MCI),-0.108234,cognitively healthy controls (CHCs),0.505506,neg,5.37E-06,9410,0.61374,2211,37388929

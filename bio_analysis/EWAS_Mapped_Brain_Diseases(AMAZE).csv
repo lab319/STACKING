@@ -1,0 +1,12 @@
+﻿cpg_id,R2_Single,R2_Multi_Tissue,R2_Gain,Association_ID,probe_ID,trait,case_description,case_beta,control_description,control_beta,correlation,p_value,rank_in_study,effect_size,study_ID,PMID
+cg11798857,0.20501721,0.9664775,0.7614603,1804721,cg11798857,Alzheimer's disease (AD),cognitive impairment (MCI),-0.1354,cognitively healthy controls (CHCs),0.0663418,neg,2.75E-14,4894,0.201742,2211,37388929
+cg18053481,0.11674482,0.8751349,0.75839007,1909929,cg18053481,brain health,plasma proteins,-1.53586,,,neg,8.49E-14,1682,,2259,35945220
+cg18053481,0.11674482,0.8751349,0.75839007,1909688,cg18053481,brain health,plasma proteins,-1.47586,,,neg,4.82E-13,1441,,2259,35945220
+cg11798857,0.20501721,0.9664775,0.7614603,1821192,cg11798857,mild cognitive impairment,cognitive impairment (MCI),-0.112034,Alzheimers disease (AD),0.0663418,neg,1.74E-11,1801,0.178376,2210,37388929
+cg14642696,0.18048203,0.95570636,0.7752243,681217,cg14642696,schizophrenia,patients with schizophrenia,,non-psychiatric controls,,neg,3.11E-11,37,,498,26619358
+cg18342026,0.17808878,0.9455858,0.767497,1815865,cg18342026,Alzheimer's disease (AD),cognitive impairment (MCI),0.13669,cognitively healthy controls (CHCs),0.425821,pos,4.96E-11,16038,0.289131,2211,37388929
+cg26264232,0.20459855,0.9634573,0.75885874,1377033,cg26264232,Alzheimer's disease (AD),,,,,pos,7.44E-11,79,,1654,33257653
+cg01517832,0.09522253,0.862208,0.7669855,1814876,cg01517832,Alzheimer's disease (AD),cognitive impairment (MCI),0.124385,cognitively healthy controls (CHCs),0.604022,pos,1.70E-08,15049,0.479638,2211,37388929
+cg01132589,0.102041125,0.907583,0.8055419,1811545,cg01132589,Alzheimer's disease (AD),cognitive impairment (MCI),0.100258,cognitively healthy controls (CHCs),0.236467,pos,6.37E-07,11718,0.13621,2211,37388929
+cg04885315,0.055539846,0.81545687,0.759917,811219,cg04885315,cognitive function,cognitive composite score,,,,pos,1.00E-06,1,0.0392,736,29311901
+cg27032760,0.17189509,0.9430318,0.7711367,1401656,cg27032760,autism spectrum disorders (ASD),autism,0.6499,,0.7925,neg,0.000263234,98,-0.1425,1764,34404318
